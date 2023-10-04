@@ -1,0 +1,15 @@
+First round
+1. work in a group?
+2.How comfortable with this group?
+3.Employed OOP design principles
+    Name a few design patterns/principles?
+    Where to use polymorphism?
+    Examples?
+4.  Overlap sphere && time tracing  which one is more cost-efficient?
+coding: String to int
+
+Second round
+1.Work with ddl from different discipline(team)?
+2.Collaborate on 1, ever convinced of an important colleague?
+3.Which team you prefer?
+5.Fizzbuzz & compute Cn 2 （排列组合）
