@@ -1,0 +1,81 @@
+报个DP，bq是quick decision without much information 和 help peers。 code是叫我设计一个洗牌的class，完全没遇见过
+
+报个dp 刚面完，亚麻7年manger 光头白人 考的ood 设计一副扑克 有梅花 方片各种类型 然后写shuffle。 bq是 help peers 和 quick decision with limited info 有很多follow up和细节
+
+
+报个dp回报群里，10.5 Intern vo，面试官有络腮胡没口音看不出来哪个国家人，bq是tight deadline，take risk，extra responsibility，code：integer to string，string to integer，follow up：1. if the number is not represented as the base of 10, 2. if we use string A, B, C to present number 10, 11, 12.., how to transfer integer to string
+Report a dp return group, 10.5 Internvo, the interviewer has a beard and no accent can't tell which country, bq is tight deadline，take risk，extra responsibility，code：integer to string，string to integer， follow up：1. if the number is not represented as the base of 10,  2. if we use string A, B, C to present number 10,  11, 12.., how to transfer integer to string
+
+
+报个dp：设计国际象棋，问需要考虑哪些因素，怎么支持millions of user，不需要写任何的代码，讲思路就可以了，bq是：tight ddl, help peers
+
+9.28 intern dp
+中年白男花臂光头/第一次面实习生
+bq：先从实习开始问做了啥，所有bq问题都不是直接提问，基本上会顺着上一个问题提出来，大概包括tight deadline，calculate risk， lack of information, make decision， 我提到了我convince 组员 take risk， 然后问我有没有你不想take risk的时候。 各种follow up问怎么实现怎么solve之类的。整体将近40min
+coding： valid palindrome。 我用two pointer写完他似乎看不懂，说有没有什么办法可以整个string判断的，问半天发现他想让我说直接reverse string，我说不行啊里面有特殊符号，他说那你可以用replace， 我说是的，如果我知道所有special character都是什么的话。 然后他似乎看懂了我的写法，问这两种写法各有什么好处。
+
+报个dp, 一个印度大姐，麦不是很好，听起来很糊，上来先是自我介绍，然后让我说了一个简历上的project，follow up了project的一些小细节，然后问了当意见和manager不和的时候会怎么做，bq结束大概20分钟然后开始code，valid BST，说给十分钟想然后她把摄像头关了， 然后我先说了思路，写完之后她check了一下说有点问题，我检查了一下改了个小地方，然后问如果有负数怎么办，最后反向bq
+
+报个dp  intern: bq 介绍简历项目,take risk, help peers, out of responsibility  coding: group anagrams; 3 sum closest
+
+dp: 7.14投，7.26收到oa，8.3写完，8.9收到survey，8.30confirm了8.31的面试，8.31在国内面到一半梯子炸了，reschedule到9.16面
+没有coding只有一堆bq，out of responsibility，take risk，negative feedback，挺多followup的。我看时间挺久了问他不用coding嘛，他说coding不属于这个part，是oa的部分
+
+dp: 7.19 投，一个月收到oa, 9.6 vo survey, 9.9 确认
+9.16面试
+code: 多叉树的遍历，背景是假装在一个文件夹下面找符合条件的文件。
+bq: out of responsibility
+先coding然后bq，就说了一个bq就反向问问题了。面试官也是转码，没有为难。感觉是个社恐，没开视频，我一个人开视频虚空说话
+
+dp: 7.27 投，8.8 收到oa, 8.21 做oa, 9.6 vo survey, 9.14 确认
+9.16面试
+bq: tight ddl, out of responsibility
+code: 字符串链表求众数 follow up1: top2 follow up2: topk
+面试官人超好，25分钟左右就写完代码开始 walk through 和 follow up，follow up 没要求 coding
+
+dp: 7.20投, 8.15收到oa, 9.1 vo survey, 9.11确认, 9.16面试
+bq: tight ddl, out of responsibility, without manager，都有follow up
+code: grid里面求island的数量，lc原题
+华人小哥，人巨好，bq花的时间太长了，代码写完也没walk through, 最后闲扯了15分钟
+
+报个dp：7.18投，8.15oa，8.21 oa submit，9.2 vo survey，9.5 confirm，9.13 interview。
+国人小姐姐特别友好
+bq1:help peers，
+bq2:quick decision➕risk combine，
+bq3：a time you make decision without asking manager，
+bq4: 牺牲眼前的事为了long term benefit
+coding：max area of island
+
+报个dp，9月9日下午4点，印度老哥，面试过程比较离谱，按时间顺序说
+
+先自我介绍，自我介绍完让我更新简历（我忘了事先更新简历了），更新完就问我简历上的机器学习经历。
+
+然后是coding，lc48变体，变成逆时针旋转。
+
+coding结束问第一道八股：TCP/UDP的区别，答错了
+
+后面是BQ，help peers+take calculated risk。
+
+BQ后问第二道八股：http和https的具体区别，回答的不够细
+
+第三道八股：数据库中的indexing是什么，原理是什么
+
+反向BQ，我问他最看中的intern的品质是什么，他说“这问题我被问过很多次了，能不能问一些技术相关的问题”。我就问了这个岗位用什么技术栈？第二个问题忘了。
+
+最后他看我前两个八股没有回答出来，就花了很长时间给我讲……
+
+
+
+报个dp，一个小时，coding是check BST，写了三个方法还问有没有更好的。bg 是两个常见的，最后反问了两个问题结束
+
+
+发一个dp: 9.8下午面试的，白人小哥，看起来有点点严肃但总体感觉人还不错。没有自我介绍，BQ问了 5-6个，具体有点记不清楚了，我准备的小故事不够用了现编了2个，问了make decision/ tight ddl/ challenging proj 还有啥有点忘了一共说了半小时。 Coding: input一个String，out put对应的列数，比如在excel中 B代表第二列，给“B”要求输出 2， AB列代表第28列，给“AB”输出28。最后反向bq，总面试时长1h.
+
+报dp 7.13投，8.1vo，8.8 vo survey, delay 9.1面试 9.8move面试官白男，四个常见bq问题，每题都follow up 细节。题目是给一个每行都sorted的binary matrix，找出1最多的一行给了 O(mn)到O(mlogn) 的解法，提示O(m+n)当时没想出来，最后二分做的，followup input size constraint, dry run尽可能想多的cornor case
+
+
+
+
+
+
+
